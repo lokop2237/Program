@@ -53,7 +53,6 @@ class BarcodeApiResponse2{
     return BarcodeApiResponse2(json[totalCount],json[pageNo],);
   }
 }
-
 class Lists{
   final String nutrient;
   final String rawmtrl;
